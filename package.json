@@ -1,0 +1,21 @@
+{
+  "name": "@ph-itdev/container-tracker",
+  "version": "1.0.0",
+  "description": "Track shipping containers across ports and vessels with status updates, ETA predictions, and milestone alerts.",
+  "main": "index.js",
+  "types": "index.d.ts",
+  "type": "commonjs",
+  "scripts": {
+    "test": "node test.js"
+  },
+  "keywords": ["logistics", "container", "shipping", "tracking", "supply-chain"],
+  "author": "@ph-itdev",
+  "license": "MIT",
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/nilskie06/container-tracker.git"
+  },
+  "engines": {
+    "node": ">=14.0.0"
+  }
+}
