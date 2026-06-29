@@ -19,9 +19,16 @@
     "test": "node test.js",
     "playground": "node bin/cli.js playground"
   },
-  "keywords": ["logistics", "container", "shipping", "tracking", "supply-chain", "playground"],
+  "keywords": [
+    "logistics",
+    "container",
+    "shipping",
+    "tracking",
+    "supply-chain",
+    "playground"
+  ],
   "author": "@ph-itdev",
-  "license": "MIT",
+  "license": "MIT \u00a9 Nilo Besingga",
   "repository": {
     "type": "git",
     "url": "git+https://github.com/nilskie06/container-tracker.git"
